@@ -6,7 +6,7 @@
   </tr>
 
   <tr>
-    <td rowspan="3">2021-04-15</td>
+    <td rowspan="3">20210415</td>
     <th>drf</th>
     <td>django rest framework</td>
     <td>https://www.django-rest-framework.org/</td>
@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <td>2021-04-14</td>
+    <td>20210414</td>
     <th>IARC</th>
     <td>International Age Rating Coalition</td>
     <td>
