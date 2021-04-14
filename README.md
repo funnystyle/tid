@@ -1,2 +1,7 @@
 # new-terms
-새로운 용어를 정리하는 공간
+
+| Date | Abbr. | Description | URL |
+|:---:|:---:|:---|:---|
+|2021-04-15|drf|django rest framework|https://www.django-rest-framework.org/|
+|^^|RPA|Robotic Process Automation|https://namu.wiki/w/RPA|
+|^^|BM|Business Model|https://mbanote2.tistory.com/24|
