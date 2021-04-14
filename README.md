@@ -1,4 +1,4 @@
-# new-terms
+# FDNT : Funny's Dayily New Terms
 
 <table>
   <tr>
