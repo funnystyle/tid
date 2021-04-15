@@ -1,5 +1,9 @@
 # TID: Today I Did
 
+### 2021-04-16 (금0
+- modified local git config email for counting github contribute
+- Lesson : Python으로 웹 스크래퍼 만들기 #3 ~ # 3.6 (https://nomadcoders.co)
+
 ### 2021-04-15 (목)
 - 날짜 계산기 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
 - 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
