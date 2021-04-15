@@ -1,4 +1,4 @@
-# Side Project Idea
+# SPI: Side Project Idea
 
 ## 날짜 계산기
   - 특정일 기준으로 날짜를 계산해주는 웹사이트
