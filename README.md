@@ -1,35 +1,19 @@
 # TIL: Terms I Learned
 
-<table>
-  <tr>
-    <th>Date</th><th>Abbr.</th><th>Description</th><th>URL</th>
-  </tr>
+### 2021-04-15 THU
 
-  <tr>
-    <td rowspan="3">20210415</td>
-    <th>drf</th>
-    <td>django rest framework</td>
-    <td>https://www.django-rest-framework.org/</td>
-  </tr>
-  <tr>
-    <th>RPA</th>
-    <td>Robotic Process Automation</td>
-    <td>https://namu.wiki/w/RPA</td>
-  </tr>
-  <tr>
-    <th>BM</th>
-    <td>Business Model</td>
-    <td>https://mbanote2.tistory.com/24</td>
-  </tr>
+#### drf : django rest framework
+  - https://www.django-rest-framework.org/
 
-  <tr>
-    <td>20210414</td>
-    <th>IARC</th>
-    <td>International Age Rating Coalition</td>
-    <td>
-      https://support.google.com/googleplay/android-developer/answer/9859655?hl=ko
-      https://www.globalratings.com/developer-contactus.aspx
-    </td>
-  </tr>
+#### RPA : Robotic Process Automation
+  - https://namu.wiki/w/RPA
 
-</table>
+#### BM : Business Model
+  - https://mbanote2.tistory.com/24
+
+
+### 2021-04-14 WEB
+
+#### IARC : International Age Rating Coalition
+  - https://support.google.com/googleplay/android-developer/answer/9859655?hl=ko
+  - https://www.globalratings.com/developer-contactus.aspx
