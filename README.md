@@ -6,6 +6,7 @@
 - New Terms I Learned 만듬 -> ntil.md
 - github 에 tid 저장소 만듬
 - 노마드코더 react hooks - useContext 학습
+- prerequisites 저장소 readme.md 를 여기로 함침
 
 ---
 
