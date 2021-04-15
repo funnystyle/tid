@@ -1,7 +1,6 @@
 # TIL: Terms I Learned
 
 
----
 
 > 2021-04-15 THU
 
