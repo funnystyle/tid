@@ -1,4 +1,4 @@
-# FDNT : Funny's Daily New Terms
+# TIL : Terms I Learned
 
 <table>
   <tr>
