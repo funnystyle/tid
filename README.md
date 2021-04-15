@@ -1,6 +1,8 @@
 # TIL: Terms I Learned
 
 
+---
+
 > 2021-04-15 THU
 
 #### drf : django rest framework
@@ -12,6 +14,7 @@
 #### BM : Business Model
   - https://mbanote2.tistory.com/24
 
+---
 
 > 2021-04-14 WEB
 
