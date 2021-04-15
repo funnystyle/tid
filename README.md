@@ -1,22 +1,36 @@
-# TIL: Terms I Learned
+# TID: Today I Did
 
-
-
-> 2021-04-15 THU
-
-- drf : django rest framework
-  - https://www.django-rest-framework.org/
-
-- RPA : Robotic Process Automation
-  - https://namu.wiki/w/RPA
-
-- BM : Business Model
-  - https://mbanote2.tistory.com/24
+### 2021-04-15 Thu
+- 날짜 계산기 어떨까 생각
+- 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각
+- New Terms I Learned 만듬
+- github 에 tid 저장소 만듬
+- 노마드코더 react hooks - useContext 학습
 
 ---
 
-> 2021-04-14 WEB
+### 2021-04-02 Fri
+- 홈수리
+  - [x] 홈수리 관리자 제품 리스트 json 오류 처리
+  - [ ] 계약서 작성
+  - [ ] 매뉴얼 작성
+  - [ ] 개발범위 작성
 
-- IARC : International Age Rating Coalition
-  - https://support.google.com/googleplay/android-developer/answer/9859655?hl=ko
-  - https://www.globalratings.com/developer-contactus.aspx
+
+- 스마트로
+  - [ ] 무선동글 개발
+
+
+- 노마드코더
+  - [x] 노마드코더 python 학습
+  - [ ] 노마드코더 react 학습
+  - [x] 노마드코더 python 챌린지 문제 풀이
+  - [ ] 노마드코더 react 챌린지 문제 풀이
+
+
+### 장기 계획
+- spring jwt auth server 구축
+- frontend jwt auth (react/vuejs/angular)
+- 게시판 (react/vuejs/angular)
+- default shopping mall (front, admin) 구축
+- cordova 앱 출시 1달에 1개씩
