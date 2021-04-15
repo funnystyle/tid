@@ -1,8 +1,8 @@
 # TID: Today I Did
 
 ### 2021-04-15 (목)
-- 날짜 계산기 어떨까 생각 -> spi.md
-- 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> spi.md
+- 날짜 계산기 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
+- 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
 - New Terms I Learned 만듬 -> ntil.md
 - github 에 tid 저장소 만듬
 - 노마드코더 react hooks - useContext 학습
