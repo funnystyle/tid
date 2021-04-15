@@ -2,6 +2,9 @@
 
 > 2021-04-15 THU
 
+- UUID : universally unique identifier
+  - https://ko.wikipedia.org/wiki/%EB%B2%94%EC%9A%A9_%EA%B3%A0%EC%9C%A0_%EC%8B%9D%EB%B3%84%EC%9E%90
+
 - drf : django rest framework
   - https://www.django-rest-framework.org/
 
