@@ -1,4 +1,4 @@
-# TIL : Terms I Learned
+# TIL: Terms I Learned
 
 <table>
   <tr>
