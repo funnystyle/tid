@@ -1,6 +1,6 @@
 # TID: Today I Did
 
-### 2021-04-16 (금0
+### 2021-04-16 (금)
 - modified local git config email for counting github contribute
 - Lesson : Python으로 웹 스크래퍼 만들기 #3.0 ~ # 3.6 (https://nomadcoders.co)
 
