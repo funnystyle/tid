@@ -1,19 +1,19 @@
 # TID: Today I Did
 
 ### 2021-04-16 (토)
-- Study : Typescript로 블록체인 만들기 #0.5 ~ #0.13 (완료) [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
+- Study : [[노마드코더](https://nomadcoders.co/)]Typescript로 블록체인 만들기 #0.5 ~ #0.13 (완료) [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
 
 ### 2021-04-16 (금)
 - modified local git config email for counting github contribute
-- Study : Python으로 웹 스크래퍼 만들기 #3.0 ~ #3.6 (완료) [lobby](https://nomadcoders.co/python-for-beginners/lobby)
-- Study : Typescript로 블록체인 만들기 #0.1 ~ #0.4 [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
+- Study : [[노마드코더](https://nomadcoders.co/)]Python으로 웹 스크래퍼 만들기 #3.0 ~ #3.6 (완료) [lobby](https://nomadcoders.co/python-for-beginners/lobby)
+- Study : [[노마드코더](https://nomadcoders.co/)]Typescript로 블록체인 만들기 #0.1 ~ #0.4 [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
 
 ### 2021-04-15 (목)
 - 날짜 계산기 어떨까 생각 -> [date-calculator.md](https://github.com/funnystyle/tid/blob/a014bc850bc05c3dba548535c07ec64b37fae659/side-project-idea/date-calculator.md)
 - 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> [timetable-sum.md](https://github.com/funnystyle/tid/blob/be070ced60d663e5a8a3a06f032132f1f4085d10/side-project-idea/timetable-sum.md)
 - New Terms I Learned 만듦 -> [ntil](https://github.com/funnystyle/tid/blob/main/new-terms-i-learned.md)
 - github 에 tid 저장소 만듦
-- 노마드코더 react hooks - useContext 학습
+- [[노마드코더](https://nomadcoders.co/)] react hooks - useContext 학습
 - prerequisites 저장소 readme.md 를 여기로 함침
 - 스마트로
   - [x] 무선동글 개발
