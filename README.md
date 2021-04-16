@@ -2,7 +2,8 @@
 
 ### 2021-04-16 (금)
 - modified local git config email for counting github contribute
-- Lesson : Python으로 웹 스크래퍼 만들기 #3.0 ~ # 3.6 (https://nomadcoders.co)
+- Study : Python으로 웹 스크래퍼 만들기 #3.0 ~ # 3.6 (https://nomadcoders.co)
+- Study : Typescript로 블록체인 만들기
 
 ### 2021-04-15 (목)
 - 날짜 계산기 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
