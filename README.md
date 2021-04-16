@@ -8,7 +8,7 @@
 ### 2021-04-15 (목)
 - 날짜 계산기 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
 - 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
-- New Terms I Learned 만듦 -> [ntil.md](https://github.com/funnystyle/tid/blob/main/ntil.md)
+- New Terms I Learned 만듦 -> [ntil](https://github.com/funnystyle/tid/blob/main/new-terms-i-learned.md)
 - github 에 tid 저장소 만듦
 - 노마드코더 react hooks - useContext 학습
 - prerequisites 저장소 readme.md 를 여기로 함침
