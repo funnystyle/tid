@@ -1,5 +1,8 @@
 # TID: Today I Did
 
+### 2021-04-16 (토)
+- Study : Typescript로 블록체인 만들기 #0.5 ~ #0.13 (완료) [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
+
 ### 2021-04-16 (금)
 - modified local git config email for counting github contribute
 - Study : Python으로 웹 스크래퍼 만들기 #3.0 ~ #3.6 (완료) [lobby](https://nomadcoders.co/python-for-beginners/lobby)
