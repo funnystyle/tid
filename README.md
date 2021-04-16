@@ -6,8 +6,8 @@
 - Study : Typescript로 블록체인 만들기 #0.1 ~ #0.4 (https://nomadcoders.co)
 
 ### 2021-04-15 (목)
-- 날짜 계산기 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
-- 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> [spi.md](https://github.com/funnystyle/tid/blob/main/spi.md)
+- 날짜 계산기 어떨까 생각 -> [date-calculator.md](https://github.com/funnystyle/tid/blob/a014bc850bc05c3dba548535c07ec64b37fae659/side-project-idea/date-calculator.md)
+- 강좌 목록에 있는 time 을 합치는 간단 프로그램 어떨까 생각 -> [timetable-sum.md](https://github.com/funnystyle/tid/blob/be070ced60d663e5a8a3a06f032132f1f4085d10/side-project-idea/timetable-sum.md)
 - New Terms I Learned 만듦 -> [ntil](https://github.com/funnystyle/tid/blob/main/new-terms-i-learned.md)
 - github 에 tid 저장소 만듦
 - 노마드코더 react hooks - useContext 학습
