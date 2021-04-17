@@ -1,7 +1,14 @@
 # TID: Today I Did
 
+### 2021-04-17 (일)
+- Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기
+  - lobby: https://nomadcoders.co/react-native-fundamentals/lobby
+  - Nicolas's source: https://github.com/nomadcoders/fokin-weather
+  - My source: https://github.com/funnystyle/nomad-react-native-fokin-weather
+
 ### 2021-04-16 (토)
 - Study : [[노마드코더](https://nomadcoders.co/)]Typescript로 블록체인 만들기 #0.5 ~ #0.13 (완료) [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
+- Side Project : 날짜계산기 개발 (완료) [URL](https://funnystyle.github.io/ttt/) [Github](https://github.com/funnystyle/ttt) 
 
 ### 2021-04-16 (금)
 - modified local git config email for counting github contribute
@@ -29,14 +36,14 @@
 
 
 - ~~스마트로~~
-  - [ ] ~~무선동글 개발~~
+  - [x] ~~무선동글 개발~~
 
 
 - 노마드코더
   - [x] 노마드코더 python 학습
-  - [ ] 노마드코더 react 학습
+  - [x] 노마드코더 react 학습
   - [x] 노마드코더 python 챌린지 문제 풀이
-  - [ ] 노마드코더 react 챌린지 문제 풀이
+  - [x] 노마드코더 react 챌린지 문제 풀이
 
 
 ### 장기 계획
