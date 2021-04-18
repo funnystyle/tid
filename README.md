@@ -1,7 +1,12 @@
 # TID: Today I Did
 
 ### 2021-04-18 (월)
-- Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작
+- Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 (시작) (408:47)
+  - lobby: https://nomadcoders.co/css-layout-masterclass/lobby
+  - Nicolas's source: https://github.com/nomadcoders/scss-masterclass
+  - My source: https://github.com/funnystyle/nomad-css-layout-masterclass
+- CSS Layout 마스터 클래스 #0.1 ~ #1.9
+- Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작
 
 ### 2021-04-17 (일)
 - Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기 (109:23) (완료)
