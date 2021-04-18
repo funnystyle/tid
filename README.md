@@ -1,5 +1,8 @@
 # TID: Today I Did
 
+### 2021-04-18 (월)
+- Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작
+
 ### 2021-04-17 (일)
 - Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기 (109:23) (완료)
   - lobby: https://nomadcoders.co/react-native-fundamentals/lobby
