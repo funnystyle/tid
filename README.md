@@ -1,7 +1,7 @@
 # TID: Today I Did
 
 ### 2021-04-17 (일)
-- Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기
+- Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기 (109:23) (완료)
   - lobby: https://nomadcoders.co/react-native-fundamentals/lobby
   - Nicolas's source: https://github.com/nomadcoders/fokin-weather
   - My source: https://github.com/funnystyle/nomad-react-native-fokin-weather
