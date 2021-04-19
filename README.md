@@ -1,5 +1,8 @@
 # TID: Today I Did
 
+### 2021-04-19 (화)
+- Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작 - 2일차
+
 ### 2021-04-18 (월)
 - Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 (시작) (408:47)
   - lobby: https://nomadcoders.co/css-layout-masterclass/lobby
@@ -17,7 +20,7 @@
 
 ### 2021-04-16 (토)
 - Study : [[노마드코더](https://nomadcoders.co/)]Typescript로 블록체인 만들기 #0.5 ~ #0.13 (완료) [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
-- Side Project : 날짜계산기 개발 (완료) [URL](https://funnystyle.github.io/ttt/) [Github](https://github.com/funnystyle/ttt) 
+- Side Project : 강의시간 총합 계산기 개발 (완료) [URL](https://funnystyle.github.io/ttt/) [Github](https://github.com/funnystyle/ttt) 
 
 ### 2021-04-16 (금)
 - modified local git config email for counting github contribute
