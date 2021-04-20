@@ -7,6 +7,7 @@
 - Study: ReactJS로 영화 웹 서비스 만들기 #2.0 ~ #2.4
 - Study: ReactJS로 영화 웹 서비스 만들기 #3.0 ~ #3.3
 - Study: ReactJS로 영화 웹 서비스 만들기 #4.0 ~ #4.5
+- Study: ReactJS로 영화 웹 서비스 만들기 #5.0 ~ #5.1
 
 ### 2021-04-18 (월)
 - Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 (시작) (408:47)
