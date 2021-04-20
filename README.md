@@ -1,5 +1,8 @@
 # TID: Today I Did
 
+### 2021-04-20 (수)
+- Study: CSS Layout 마스터 클래스 #2.0 ~
+
 ### 2021-04-19 (화)
 - Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작 - 2일차 완료
   - 참고: http://www.nickbarclaydesigns.com/new-page-2
