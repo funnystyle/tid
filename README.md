@@ -1,7 +1,9 @@
 # TID: Today I Did
 
 ### 2021-04-19 (화)
-- Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작 - 2일차
+- Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작 - 2일차 완료
+  - 참고: http://www.nickbarclaydesigns.com/new-page-2
+- Study: ReactJS로 영화 웹 서비스 만들기
 
 ### 2021-04-18 (월)
 - Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 (시작) (408:47)
@@ -11,6 +13,7 @@
 - Study: CSS Layout 마스터 클래스 #0.1 ~ #1.9
 - Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작 - 1일차 완료
 - Book: 자바스크립트는 왜 그 모양일까? 더글러스 크락포드 - 1장 ~ 7장
+- Study: ReactJS로 영화 웹 서비스 만들기 #0.0 ~ #0.3
 
 ### 2021-04-17 (일)
 - Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기 (109:23) (완료)
