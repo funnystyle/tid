@@ -1,6 +1,9 @@
 # NTIL: New Terms I Learned
 
 #### 2021-04-21 (수)
+- TL; DR : Too Long; Didn't Read
+  - https://unikys.tistory.com/405
+  - Example: "Please include a TL;DR"
 
 - BEM : Block, Element, Modifier / CSS 방법론
   - https://nykim.work/15
