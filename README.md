@@ -1,16 +1,22 @@
 # TID: Today I Did
 
-### 2021-04-22 (금)
+### 2021-04-24 (토)
+- CSS 챌린지 day-06
+- 한시간만에 끝내는 Vue.js 입문
+  - https://youtu.be/sqH0u8wN4Rs
+  - https://github.com/funnystyle/vuejs-in-hour
+
+### 2021-04-23 (금)
 - CSS 챌린지 day-05
 
-### 2021-04-21 (목)
+### 2021-04-22 (목)
 - CSS 챌린지 day-04
 
-### 2021-04-20 (수)
+### 2021-04-21 (수)
 - Study: CSS Layout 마스터 클래스 #2.0 ~ #2.15
 - CSS 챌린지 day-03
 
-### 2021-04-19 (화)
+### 2021-04-20 (화)
 - Challenge: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 챌린지 시작 - 2일차 완료
   - 참고: http://www.nickbarclaydesigns.com/new-page-2
 - Study: ReactJS로 영화 웹 서비스 만들기 #1.0 ~ #1.2
@@ -20,7 +26,7 @@
 - Study: ReactJS로 영화 웹 서비스 만들기 #5.0 ~ #5.1
 - Study: ReactJS로 영화 웹 서비스 만들기 #6.0 ~ #6.4 (완료)
 
-### 2021-04-18 (월)
+### 2021-04-19 (월)
 - Study: [[노마드코더](https://nomadcoders.co/)]CSS Layout 마스터 클래스 (시작) (408:47)
   - lobby: https://nomadcoders.co/css-layout-masterclass/lobby
   - Nicolas's source: https://github.com/nomadcoders/scss-masterclass
@@ -30,13 +36,13 @@
 - Book: 자바스크립트는 왜 그 모양일까? 더글러스 크락포드 - 1장 ~ 7장
 - Study: ReactJS로 영화 웹 서비스 만들기 #0.0 ~ #0.3
 
-### 2021-04-17 (일)
+### 2021-04-18 (일)
 - Study : [[노마드코더](https://nomadcoders.co/)]React Native로 날씨앱 만들기 (109:23) (완료)
   - lobby: https://nomadcoders.co/react-native-fundamentals/lobby
   - Nicolas's source: https://github.com/nomadcoders/fokin-weather
   - My source: https://github.com/funnystyle/nomad-react-native-fokin-weather
 
-### 2021-04-16 (토)
+### 2021-04-17 (토)
 - Study : [[노마드코더](https://nomadcoders.co/)]Typescript로 블록체인 만들기 #0.5 ~ #0.13 (완료) [lobby](https://nomadcoders.co/typescript-for-beginners/lobby)
 - Side Project : 강의시간 총합 계산기 개발 (완료) [URL](https://funnystyle.github.io/ttt/) [Github](https://github.com/funnystyle/ttt) 
 
