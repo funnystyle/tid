@@ -4,6 +4,7 @@
 - CSS 챌린지 day-06
 - [한시간만에 끝내는 Vue.js 입문](https://youtu.be/sqH0u8wN4Rs) (Youtube 동영상 강의)
   - https://github.com/funnystyle/vuejs-in-hour
+- deno-static study
 
 ### 2021-04-23 (금)
 - CSS 챌린지 day-05
