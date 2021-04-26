@@ -4,7 +4,7 @@
 - CSS 챌린지 day-08
 
 ### 2021-04-25 (일)
-- Twitter clone coding
+- Twitter clone coding #0.0 ~ #3.2
 
 ### 2021-04-24 (토)
 - CSS 챌린지 day-06
