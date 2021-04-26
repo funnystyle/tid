@@ -1,5 +1,11 @@
 # TID: Today I Did
 
+### 2021-04-26 (월)
+- CSS 챌린지 day-08
+
+### 2021-04-25 (일)
+- Twitter clone coding
+
 ### 2021-04-24 (토)
 - CSS 챌린지 day-06
 - [한시간만에 끝내는 Vue.js 입문](https://youtu.be/sqH0u8wN4Rs) (Youtube 동영상 강의)
