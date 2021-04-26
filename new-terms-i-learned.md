@@ -1,5 +1,9 @@
 # NTIL: New Terms I Learned
 
+#### 2021-04-26 (월)
+- IIFE : Immediately Invoked Function Expression
+  - https://developer.mozilla.org/ko/docs/Glossary/IIFE
+
 #### 2021-04-21 (수)
 - TL; DR : Too Long; Didn't Read
   - https://unikys.tistory.com/405
