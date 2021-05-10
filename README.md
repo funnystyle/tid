@@ -1,5 +1,8 @@
 # TID: Today I Did
 
+### 2021-05-11 (화)
+- 코코아톡 클론 코딩 Challenge : day-02
+
 ### 2021-05-10 (월)
 - 코코아톡 클론 코딩 Challenge : day-01
 - 무적화물 WBS 작성
