@@ -1,5 +1,15 @@
 # TID: Today I Did
 
+### 2021-05-14 (금)
+- Tilia 앱 flow → Figma 변환
+- 코코아톡 클론 코딩 Challenge : day-05
+
+### 2021-05-13 (목)
+- 코코아톡 클론 코딩 Challenge : day-04
+
+### 2021-05-12 (수)
+- 코코아톡 클론 코딩 Challenge : day-03
+
 ### 2021-05-11 (화)
 - 코코아톡 클론 코딩 Challenge : day-02
 
