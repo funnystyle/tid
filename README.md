@@ -1,5 +1,9 @@
 # TID: Today I Did
 
+### 2021-05-15 (토)
+- Tilia AS-IS 시스템 정보 문서 정리
+- 메일(esero082@gmail.com) 정리
+
 ### 2021-05-14 (금)
 - Tilia 앱 flow → Figma 변환
 - 코코아톡 클론 코딩 Challenge : day-05
