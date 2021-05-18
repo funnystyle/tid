@@ -1,5 +1,9 @@
 # TID: Today I Did
 
+### 2021-05-19 (수)
+- 코코아톡 클론 코딩 Challenge : day-10
+- GAREET 관리자 구현
+
 ### 2021-05-18 (화)
 - 코코아톡 클론 코딩 Challenge : day-09
 
