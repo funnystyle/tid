@@ -1,11 +1,18 @@
 # TID: Today I Did
 
+### 2021-05-18 (화)
+- 코코아톡 클론 코딩 Challenge : day-09
+
+### 2021-05-17 (월)
+- 코코아톡 클론 코딩 Challenge : day-08
+
 ### 2021-05-16 (일)
 - WebRTC prototype 구현
 
 ### 2021-05-15 (토)
 - Tilia AS-IS 시스템 정보 문서 정리
 - 메일(esero082@gmail.com) 정리
+- 코코아톡 클론 코딩 Challenge : day-06
 
 ### 2021-05-14 (금)
 - Tilia 앱 flow → Figma 변환
