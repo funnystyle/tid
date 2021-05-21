@@ -1,5 +1,10 @@
 # TID: Today I Did
 
+### 2021-05-21 (금)
+- 코코아톡 클론 코딩 Challenge : day-10
+- Gareet 미팅
+- WebRTC 샘플 화면 구현
+
 ### 2021-05-20 (목)
 - 코코아톡 클론 코딩 Challenge : day-10
 - 드로닉 미팅 for Tilia
