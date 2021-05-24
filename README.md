@@ -1,12 +1,23 @@
 # TID: Today I Did
 
+### 2021-05-24 (월)
+- 코코아톡 클론 코딩 Challenge : day-final
+
+### 2021-05-23 (일)
+- 코코아톡 클론 코딩 Challenge : day-final
+- GAREET 관리자 화면 캡처
+- GAREET ERD 캡처
+
+### 2021-05-22 (토)
+- 코코아톡 클론 코딩 Challenge : day-13
+
 ### 2021-05-21 (금)
-- 코코아톡 클론 코딩 Challenge : day-10
+- 코코아톡 클론 코딩 Challenge : day-11
 - Gareet 미팅
 - WebRTC 샘플 화면 구현
 
 ### 2021-05-20 (목)
-- 코코아톡 클론 코딩 Challenge : day-10
+- 코코아톡 클론 코딩 Challenge : day-11
 - 드로닉 미팅 for Tilia
 - WebRTC 샘플 화면 구현
 
