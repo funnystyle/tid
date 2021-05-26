@@ -1,6 +1,7 @@
 # TID: Today I Did
 
 ### 2021-05-26 (수)
+- GAIQ 자격증 취득
 - nomad 번역
 - Smartro DB Table, Batch
 - Gareet DB 연결
