@@ -2,6 +2,7 @@
 
 ### 2021-05-26 (수)
 - GAIQ 자격증 취득
+- book read : [마이바티스 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960774216) (완)
 - nomad 번역
 - Smartro DB Table, Batch
 - Gareet DB 연결
