@@ -7,7 +7,8 @@
 
 ### 2021-05-25 (화)
 - Gareet Admin : Heroku 배포 https://gareet-admin.herokuapp.com
-- book read : [다양한 예제로 배우는 CSS 설계 실전 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665810&orderClick=LEa&Kc=)
+- book read : 마이바티스 프로그래밍 1장
+- book read : [다양한 예제로 배우는 CSS 설계 실전 가이드 (완)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665810&orderClick=LEa&Kc=)
 
 ### 2021-05-24 (월)
 - 코코아톡 클론 코딩 Challenge : day-final
