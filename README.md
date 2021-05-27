@@ -1,5 +1,12 @@
 # TID: Today I Did
 
+### 2021-05-28 (금)
+- 노마드 번역 (2개 정도만)
+- Gareet Database & Service, Repository 구성
+
+### 2021-05-27 (목)
+- nothing
+
 ### 2021-05-26 (수)
 - GAIQ 자격증 취득
 - book read : [마이바티스 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960774216) (완)
