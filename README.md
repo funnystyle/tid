@@ -1,5 +1,9 @@
 # TID: Today I Did
 
+### 2021-05-29 (토)
+- 노마드 번역 (3개 목표)
+- Gareet Database & Service, Repository 구성
+
 ### 2021-05-28 (금)
 - 노마드 번역 (2개 정도만)
 - Gareet Database & Service, Repository 구성
