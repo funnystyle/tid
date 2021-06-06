@@ -1,5 +1,9 @@
 # TID: Today I Did
 
+### 2021-06-07 (월)
+- Smartro 배치
+- Gareet Front
+
 ### 2021-06-06 (일)
 - Gareet Front 만들기
 
