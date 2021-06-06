@@ -1,5 +1,14 @@
 # TID: Today I Did
 
+### 2021-06-06 (일)
+- Gareet Front 만들기
+
+### 2021-06-05 (토)
+- nothing
+
+### 2021-06-04 (금)
+- nothing
+
 ### 2021-06-03 (목)
 - Gareet Front 프로젝트 만들기
 - Gareet publish #2 배포
