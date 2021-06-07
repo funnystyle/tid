@@ -1,8 +1,10 @@
 # TID: Today I Did
 
 ### 2021-06-07 (월)
-- Smartro 배치
-- Gareet Front
+- Smartro 배치 : Table 생성
+- Gareet Front : Thymeleaf Template 구성
+- 노마드 번역 : 노마드 코인 #4.0
+- Smartro 정보보안 학습 완료
 
 ### 2021-06-06 (일)
 - Gareet Front 만들기
