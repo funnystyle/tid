@@ -1,5 +1,10 @@
 # TID: Today I Did
 
+### 2021-06-08 (화)
+- 노마드 번역 : 자막 끊어읽기
+- Gareet Front : Spring Security 구성
+- Smartro 정보보안 학습 완료
+
 ### 2021-06-07 (월)
 - Smartro 배치 : Table 생성
 - Gareet Front : Thymeleaf Template 구성
