@@ -1,5 +1,13 @@
 # TID: Today I Did
 
+### 2021-06-10 (목)
+- Smartro 정보보안 학습 완료
+- Gareet Front : Spring Security 구성
+- Smartro 배달앱 배치 구현
+
+### 2021-06-09 (수)
+- end of my living days -- 2 year and 1 week.
+
 ### 2021-06-08 (화)
 - 노마드 번역 : 자막 끊어읽기
 - Gareet Front : Spring Security 구성
