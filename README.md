@@ -1,5 +1,14 @@
 # TID: Today I Did
 
+### 2021-06-13 (일)
+- nothing
+
+### 2021-06-12 (토)
+- nothing
+
+### 2021-06-11 (금)
+- nothing
+
 ### 2021-06-10 (목)
 - Smartro 정보보안 학습 완료
 - Gareet Front : Spring Security 구성
