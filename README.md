@@ -1,5 +1,8 @@
 # TID: Today I Did
 
+### 2021-06-14 (월)
+- Gareet publish 3rd 적용
+
 ### 2021-06-13 (일)
 - nothing
 
